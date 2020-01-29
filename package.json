@@ -1,8 +1,8 @@
 {
-  "name": "v-tooltip",
-  "version": "2.0.3",
+  "name": "v-tooltip-fork",
+  "version": "1.0.0",
   "description": "Easy tooltips with Vue 2.x",
-  "author": "Guillaume Chau <guillaume.b.chau@gmail.com>",
+  "author": "RokeAlvo",
   "scripts": {
     "build": "NODE_ENV=production npm run build:browser && npm run build:es && npm run build:umd",
     "test": "npm run test:unit",
@@ -84,7 +84,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akryum/vue-tooltip.git"
+    "url": "git+https://github.com/RokeAlvo/v-tooltip.git"
   },
   "typings": "types/index.d.ts"
 }
